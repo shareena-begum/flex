@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    background: rgba(15, 43, 119, 0.582);
+}
+.container {
+   border: 4px solid black;
+   display:flex;
+   flex-flow: row wrap;
+   height: 800px;
+   align-content: space-between;
+}
+.flex-item {
+    color: rgb(4, 73, 30);
+    font-size: 1.5rem;
+    padding: 1rem;
+    text-align: center;
+    border: 1px solid rgb(21, 85, 110);
+}
+.Anatomy {
+    background-color: rgb(218, 70, 70);
+}
+.Pharmacology {
+    background-color: gold;
+}
+.Pathology {
+    background-color: rgb(152, 86, 214);
+}
+.Opthalmology {
+    background-color: rgb(30, 127, 192);
+}
+.Anatomy-1 {
+    background-color: rgb(31, 143, 68);
+}
+.Pharmacology-2 {
+   background-color: rgb(202, 65, 65); 
+}
+.Pathology-3 {
+    background-color: rgb(107, 171, 226);
+}
+
